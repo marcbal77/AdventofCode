@@ -1,4 +1,6 @@
-# AdventofCode
-Advent of Code Challenges and Puzzles + documentation
+# Advent of Code
+Advent of Code Challenges and Puzzles + Documentation
 
-## My Solutions to http://adventofcode.com/
+## My Solutions to [Advent of Code](http://adventofcode.com/)
+
+- [2017](2017) with Python (*In Progress*)
