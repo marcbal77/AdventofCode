@@ -4,7 +4,7 @@ Advent of Code Challenges and Puzzles + documentation
 ## Progress
 
 - [x] [Day 01](01)
-- [ ] [Day 02](02)
+- [x] [Day 02](02)
 - [ ] [Day 03](03)
 - [ ] [Day 04](04)
 - [ ] [Day 05](05)
